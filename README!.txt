@@ -22,4 +22,4 @@ How to import this into your game step-by-step.
 
 
 
-Did this guide not work? Leave a comment or report the issue on my facebook. (https://www.facebook.com/profile.php?id=61568635122437)
+Did this guide not work or just want to say hi? Leave a comment or report the issue on our Github or Chris' facebook. (https://www.facebook.com/profile.php?id=61568635122437) 
